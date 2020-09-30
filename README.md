@@ -28,7 +28,7 @@
 * After scaling here we used different Models to evaluate and evaluated on the basis of recall and precision scores. (Added Accuracy and F1-Score just to show)
 * With this we made Classification Report and defined Confusion Matrix for evaluation.
 
-### SMOTE METHOD 
+### SMOTE Method
 
 **It is a type of oversampling but in this we will make the synthetic example of minority data and will give as a balanced data.** 
 * In this method our Logistic Regression model has the highest Recall Score (0.928) compared to other models with poor Precision Score (0.05) from others.
@@ -43,7 +43,8 @@ Support Vector Classifier (SVC) | 0.90 | 0.09 | 0.98 | 0.16
 K-Nearest Neighbors Classifier | 0.86 | 0.48 | 0.99 | 0.61
 Gaussian Naive Bayes | 0.86 | 0.06 | 0.97 | 0.11
 
-### Undersampling METHOD 
+
+### Undersampling Method
 
 **It means taking the less number of majority class, in our case taking less number of normal transactions so that our new data will be balanced.**
 * Random Forest performs well with excellent Recall (0.92), Precision Score (0.08) respectively.
