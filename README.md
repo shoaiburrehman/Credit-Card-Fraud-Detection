@@ -1,11 +1,12 @@
 # Credit Card Fraud Detection
 
 * This repository is for the Kaggle's Credit Card Fraud Detection to identify fraudulent credit card transactions.
-* The datasets contains transactions made by credit cards in September 2013 by european cardholders.
-* We did Exploratory Data Analysis, also did Data Visualization and Scaled the imbalance data because there was less number of fraudulent data then normal one.
+* The datasets contain transactions made by credit cards in September 2013 by European cardholders.
+* We did Exploratory Data Analysis, also did Data Visualization and Scaled the imbalance data because there was less number of fraudulent data than the normal one.
 * For handling imbalance data we evaluated the final performance of the classification models with SMOTE and random undersampling method.
-* In model building we used Random Forest Classifier, Logistic Regression, Decision Tree Classifier, Support Vector Machine (SVM), K -Nearest Neighbors, Decision Tree and Gaussian Naive Bayesr.
-* Also made Classification Report, defined Confusion Matrix and plotted ROC Curve.
+* In the model building, we used Random Forest Classifier, Logistic Regression, Decision Tree Classifier, Support Vector Machine (SVM), K -Nearest Neighbors, Decision Tree and Gaussian Naive Bayes.
+* Also, we made the Classification Report, defined Confusion Matrix and plotted ROC Curve.
+
 
 ## Resources We Used
 
