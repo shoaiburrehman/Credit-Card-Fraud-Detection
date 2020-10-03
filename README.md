@@ -24,10 +24,10 @@
 
 ## Model Building
 
-* First we defined the features of our scaled data then split it into test and train set with 20% test set.
+* First, we defined the features of our scaled data then split it into test and train set with 20% test set.
 * Then we used two methods to resample our data, for Oversampling we used SMOTE and for Undersampling we used Random Undersampling method.
 * After scaling here we used different Models to evaluate and evaluated on the basis of recall and precision scores. (Added Accuracy and F1-Score just to show)
-* With this we made Classification Report and defined Confusion Matrix for evaluation.
+* With this, we made the Classification Report and defined the Confusion Matrix for evaluation.
 
 ### SMOTE Method
 
